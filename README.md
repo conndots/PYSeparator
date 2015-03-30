@@ -1,0 +1,5 @@
+PYSeparator
+=========================================
+Separate a String to syllybles(single legal Pinyin) most  likely to possible intension of users.You should provide the function of a dictionary by implementing the dict interface.  
+This is a previous project from my old count(skyline0623).
+
